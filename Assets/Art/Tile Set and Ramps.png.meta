@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: c6d934d5a5f48fb40a90bd525dcbe797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2509638930219661188
+    second: Tile Set and Ramps_0
+  - first:
+      213: -7000531657665157296
+    second: Tile Set and Ramps_1
+  - first:
+      213: 3451688251619310956
+    second: Tile Set and Ramps_2
+  - first:
+      213: 7196651573495167159
+    second: Tile Set and Ramps_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile Set and Ramps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7804c980b8fb2dd0800000000000000
+      internalID: -2509638930219661188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057edf93c8d19de90800000000000000
+      internalID: -7000531657665157296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 0}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -3}
+        - {x: 5, y: -3}
+        - {x: 5, y: -1}
+        - {x: 3, y: -1}
+        - {x: 3, y: 0}
+        - {x: 2, y: 0}
+        - {x: 2, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: 3}
+        - {x: -2, y: 3}
+        - {x: -2, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 6}
+        - {x: -5, y: 6}
+        - {x: -5, y: 7}
+        - {x: -7, y: 7}
+        - {x: -7, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d78215d2cd6ef20800000000000000
+      internalID: 3451688251619310956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -8}
+        - {x: -5, y: -7}
+        - {x: -7, y: -7}
+        - {x: -7, y: -6}
+        - {x: -8, y: -6}
+        - {x: -8, y: -8}
+        - {x: -3, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b87f620a74afd360800000000000000
+      internalID: 7196651573495167159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f86d3a941747b48b9706565e0fc2bd
+      internalID: -1887857486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d7011db498c84a9fabbb920372ef9
+      internalID: 375972968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b73bd11546314eb5215f3748d1800
+      internalID: 758944449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 0}
+        - {x: 8, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: -1}
+        - {x: 5, y: -1}
+        - {x: 5, y: 1}
+        - {x: 3, y: 1}
+        - {x: 3, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: 3}
+        - {x: 0, y: 3}
+        - {x: 0, y: 4}
+        - {x: -1, y: 4}
+        - {x: -1, y: 5}
+        - {x: -2, y: 5}
+        - {x: -2, y: 7}
+        - {x: -4, y: 7}
+        - {x: -4, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c877fffe256b3242ae860c1dbd38a17
+      internalID: 1986401857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7959d3970ba47444c9cad6455612b715
+      internalID: 233331202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971c293f301f234dbdb1294a220e616
+      internalID: 1095430567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: -3}
+        - {x: -5, y: -3}
+        - {x: -5, y: -5}
+        - {x: -6, y: -5}
+        - {x: -6, y: -6}
+        - {x: -7, y: -6}
+        - {x: -7, y: -8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47dd9a7a36343a4c927145287cb1655
+      internalID: -837762228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7964a3f6b7262c44a8653320ef03963
+      internalID: 397233406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53249dabad44d247ba302c1168a5275
+      internalID: -601568565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: 6}
+        - {x: 5, y: 6}
+        - {x: 5, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f740ed6b96fd4293a27de30be82d6
+      internalID: 159962566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Set and Ramps_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4a0d3fdf71a2489649484b38bac85
+      internalID: -489402673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d57655c13ef48f49922b2e462b14134
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tile Set and Ramps_0: -2509638930219661188
+      Tile Set and Ramps_1: -7000531657665157296
+      Tile Set and Ramps_10: -837762228
+      Tile Set and Ramps_11: 397233406
+      Tile Set and Ramps_12: -601568565
+      Tile Set and Ramps_13: 159962566
+      Tile Set and Ramps_14: -489402673
+      Tile Set and Ramps_2: 3451688251619310956
+      Tile Set and Ramps_3: 7196651573495167159
+      Tile Set and Ramps_4: -1887857486
+      Tile Set and Ramps_5: 375972968
+      Tile Set and Ramps_6: 758944449
+      Tile Set and Ramps_7: 1986401857
+      Tile Set and Ramps_8: 233331202
+      Tile Set and Ramps_9: 1095430567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
