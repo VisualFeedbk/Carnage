@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -190,10 +190,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 159
-        width: 27
-        height: 30
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 159
-        width: 27
-        height: 33
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,9 +232,9 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_2
       rect:
         serializedVersion: 2
-        x: 68
-        y: 159
-        width: 26
+        x: 64
+        y: 160
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_3
       rect:
         serializedVersion: 2
-        x: 98
-        y: 159
-        width: 28
-        height: 29
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,9 +275,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 159
-        width: 30
-        height: 30
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,9 +295,9 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_5
       rect:
         serializedVersion: 2
-        x: 130
-        y: 127
-        width: 24
+        x: 0
+        y: 128
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 127
-        width: 29
-        height: 30
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,10 +337,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_7
       rect:
         serializedVersion: 2
-        x: 2
-        y: 95
-        width: 27
-        height: 34
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -358,10 +358,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_8
       rect:
         serializedVersion: 2
-        x: 33
-        y: 127
-        width: 27
-        height: 30
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,9 +379,9 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_9
       rect:
         serializedVersion: 2
-        x: 36
-        y: 95
-        width: 25
+        x: 128
+        y: 128
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -400,10 +400,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_10
       rect:
         serializedVersion: 2
-        x: 63
-        y: 127
-        width: 29
-        height: 31
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,10 +421,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_11
       rect:
         serializedVersion: 2
-        x: 96
-        y: 127
-        width: 27
-        height: 31
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +442,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_12
       rect:
         serializedVersion: 2
-        x: 68
-        y: 95
-        width: 25
-        height: 31
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,10 +463,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_13
       rect:
         serializedVersion: 2
-        x: 98
-        y: 95
-        width: 28
-        height: 29
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,9 +484,9 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_14
       rect:
         serializedVersion: 2
-        x: 99
-        y: 63
-        width: 26
+        x: 128
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -505,10 +505,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_15
       rect:
         serializedVersion: 2
-        x: 129
-        y: 95
-        width: 28
-        height: 30
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,10 +526,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_16
       rect:
         serializedVersion: 2
-        x: 133
-        y: 63
-        width: 25
-        height: 33
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -547,10 +547,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_17
       rect:
         serializedVersion: 2
-        x: 0
-        y: 63
-        width: 28
-        height: 30
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,9 +568,9 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_18
       rect:
         serializedVersion: 2
-        x: 6
-        y: 31
-        width: 23
+        x: 96
+        y: 64
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -589,10 +589,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_19
       rect:
         serializedVersion: 2
-        x: 33
-        y: 63
-        width: 26
-        height: 30
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +610,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_20
       rect:
         serializedVersion: 2
-        x: 67
-        y: 63
-        width: 23
-        height: 31
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_21
       rect:
         serializedVersion: 2
-        x: 130
-        y: 31
-        width: 26
-        height: 33
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +652,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_22
       rect:
         serializedVersion: 2
-        x: 4
-        y: 0
-        width: 25
-        height: 31
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -673,10 +673,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_23
       rect:
         serializedVersion: 2
-        x: 35
-        y: 31
-        width: 27
-        height: 29
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -694,10 +694,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_24
       rect:
         serializedVersion: 2
-        x: 35
-        y: 0
-        width: 26
-        height: 31
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,10 +715,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_25
       rect:
         serializedVersion: 2
-        x: 65
-        y: 31
-        width: 30
-        height: 30
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,10 +736,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_26
       rect:
         serializedVersion: 2
-        x: 97
-        y: 31
-        width: 26
-        height: 30
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -757,10 +757,10 @@ TextureImporter:
       name: 5_Penelope_Enemy.piskel_27
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 27
-        height: 30
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,8 +780,8 @@ TextureImporter:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 29
-        height: 30
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -801,8 +801,8 @@ TextureImporter:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 27
-        height: 30
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -819,14 +819,44 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8e6899f763daafb48ba422698f46a08c
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      5_Penelope_Enemy.piskel_0: -3715901458683770536
+      5_Penelope_Enemy.piskel_1: 5361430764501087895
+      5_Penelope_Enemy.piskel_10: 7758547896338861733
+      5_Penelope_Enemy.piskel_11: -291400005931219701
+      5_Penelope_Enemy.piskel_12: -1873402798269656408
+      5_Penelope_Enemy.piskel_13: 6377906875716306367
+      5_Penelope_Enemy.piskel_14: 1558409733057797115
+      5_Penelope_Enemy.piskel_15: 6848446159350364837
+      5_Penelope_Enemy.piskel_16: -7871806198527429984
+      5_Penelope_Enemy.piskel_17: -186209111641703032
+      5_Penelope_Enemy.piskel_18: 281844402066591047
+      5_Penelope_Enemy.piskel_19: -1279225227926636770
+      5_Penelope_Enemy.piskel_2: 8422145277938689649
+      5_Penelope_Enemy.piskel_20: -7376670485086300819
+      5_Penelope_Enemy.piskel_21: 4381630742217736653
+      5_Penelope_Enemy.piskel_22: 8738585367502115517
+      5_Penelope_Enemy.piskel_23: -6713595933497617092
+      5_Penelope_Enemy.piskel_24: -1799458130463843511
+      5_Penelope_Enemy.piskel_25: -1610829907914325393
+      5_Penelope_Enemy.piskel_26: 3378635492277646199
+      5_Penelope_Enemy.piskel_27: -540311237240675491
+      5_Penelope_Enemy.piskel_28: -7191144944908593982
+      5_Penelope_Enemy.piskel_29: 4996009224641225327
+      5_Penelope_Enemy.piskel_3: -3774632242329731358
+      5_Penelope_Enemy.piskel_4: 3225871858540631933
+      5_Penelope_Enemy.piskel_5: 5748231817167000261
+      5_Penelope_Enemy.piskel_6: -3431628119910336603
+      5_Penelope_Enemy.piskel_7: 6565581355914668152
+      5_Penelope_Enemy.piskel_8: -2793288446012013369
+      5_Penelope_Enemy.piskel_9: -2436852724435334042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
