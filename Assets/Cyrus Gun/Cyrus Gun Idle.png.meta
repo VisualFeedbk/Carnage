@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dbd8fabe8048ebe40a2d79a58cda00c0
+guid: e5fdffdb1551eeb4dbcb5537f52a14ee
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bullet_0
+      name: Cyrus Gun Idle_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 26
-        width: 10
-        height: 13
+        y: 46
+        width: 28
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8ce0b1c60129124aaee2d108c56f7a3
-      internalID: 1951258727
+      spriteID: 54a3031e849d8f04eb3fba439de6b0af
+      internalID: -351020202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bullet_1
+      name: Cyrus Gun Idle_1
       rect:
         serializedVersion: 2
-        x: 10
-        y: 26
-        width: 10
-        height: 13
+        x: 28
+        y: 46
+        width: 28
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f7d85305a048443bb8d66074a78874
-      internalID: 1866562472
+      spriteID: 23faa48695c8f154892d74712729542f
+      internalID: -1668968943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bullet_2
+      name: Cyrus Gun Idle_2
       rect:
         serializedVersion: 2
-        x: 20
-        y: 26
-        width: 10
-        height: 13
+        x: 56
+        y: 46
+        width: 28
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,125 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7ac0a132fb54584b8d8f60bb4f3f17b
-      internalID: -913270012
+      spriteID: a06bac92d480f514fb123bdd88c64315
+      internalID: -141638140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bullet_3
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 26
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95de986015fdb9743a8af69547c78f94
-      internalID: 39393359
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bullet_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a6dd2783a9cc6e4e96c41bac7ba6579
-      internalID: -483083805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bullet_5
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: affcd2b2cf4f8d941ba7e75e94160a5b
-      internalID: -833280174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bullet_6
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1fbe958a471ed44a862bbacd3727381
-      internalID: -1549211806
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bullet_7
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6a8aea25a1763649b2f9dece34b27d7
-      internalID: 12192744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bullet_8
+      name: Cyrus Gun Idle_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 10
-        height: 13
+        width: 28
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7311ff5b114af3f43966a132d0b3a7ed
-      internalID: 579157888
+      spriteID: 5637da2a499c9634a8a1c21a7964102b
+      internalID: 811311464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bullet_9
+      name: Cyrus Gun Idle_4
       rect:
         serializedVersion: 2
-        x: 10
+        x: 28
         y: 0
-        width: 10
-        height: 13
+        width: 28
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,8 +221,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95094c767e18bf847820856f04f224dd
-      internalID: -897690599
+      spriteID: 68e26b1d6719dc646a5e8093a7af680e
+      internalID: -593221732
       vertices: []
       indices: 
       edges: []
@@ -343,16 +238,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bullet_0: 1951258727
-      Bullet_1: 1866562472
-      Bullet_2: -913270012
-      Bullet_3: 39393359
-      Bullet_4: -483083805
-      Bullet_5: -833280174
-      Bullet_6: -1549211806
-      Bullet_7: 12192744
-      Bullet_8: 579157888
-      Bullet_9: -897690599
+      Cyrus Gun Idle_0: -351020202
+      Cyrus Gun Idle_1: -1668968943
+      Cyrus Gun Idle_2: -141638140
+      Cyrus Gun Idle_3: 811311464
+      Cyrus Gun Idle_4: -593221732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

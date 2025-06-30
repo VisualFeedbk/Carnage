@@ -30,7 +30,7 @@ public class CyrusMovement : MonoBehaviour
 if (movement.x != 0)
 {
     Vector3 scale = transform.localScale;
-    scale.x = -Mathf.Sign(movement.x); // flips based on direction
+    scale.x = Mathf.Sign(movement.x); // flips based on direction
     transform.localScale = scale;
 }
 

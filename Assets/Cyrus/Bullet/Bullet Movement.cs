@@ -8,12 +8,12 @@ public class Bullet : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Vector2.right * speed * Time.deltaTime);
+        // Move in the direction the bullet is facing
+        transform.Translate(Vector3.right * speed * Time.deltaTime);
     }
 
     void OnBecameInvisible()
     {
-        Destroy(gameObject); // clean up when off-screen
+        Destroy(gameObject);
     }
 }
-
