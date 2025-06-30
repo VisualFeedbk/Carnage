@@ -5,11 +5,16 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float speed = 10f;
+    private Vector2 moveDirection = Vector2.right;
+
+    public void SetDirection(Vector2 dir)
+    {
+        moveDirection = dir.normalized;
+    }
 
     void Update()
     {
-        // Move in the direction the bullet is facing
-        transform.Translate(Vector3.right * speed * Time.deltaTime);
+        transform.Translate(moveDirection * speed * Time.deltaTime);
     }
 
     void OnBecameInvisible()
@@ -17,3 +22,4 @@ public class Bullet : MonoBehaviour
         Destroy(gameObject);
     }
 }
+

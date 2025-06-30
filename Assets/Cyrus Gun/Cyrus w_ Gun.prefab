@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 1287064391589825989}
   - component: {fileID: 6286861013035757321}
   - component: {fileID: 5730697563719995650}
-  - component: {fileID: 8430555947864160134}
   m_Layer: 0
   m_Name: Cyrus w_ Gun
   m_TagString: Player
@@ -150,21 +149,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
---- !u!114 &8430555947864160134
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 987213907326785730}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f1963a9405a46a94b9888c9e73af5c1e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 0}
-  firePoint: {fileID: 5059718237918901865}
-  fireRate: 0.3
 --- !u!1 &4626122523565191913
 GameObject:
   m_ObjectHideFlags: 0

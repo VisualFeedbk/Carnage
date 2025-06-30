@@ -9,6 +9,12 @@ public class CyrusShooting : MonoBehaviour
     public float fireRate = 0.3f;
 
     private float nextFireTime = 0f;
+    private Animator animator;
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
 
     void Update()
     {
@@ -27,14 +33,34 @@ public class CyrusShooting : MonoBehaviour
             return;
         }
 
+        // Trigger shoot animation
+        if (animator != null)
+        {
+            animator.SetTrigger("Shoot");
+        }
+
+        // Instantiate bullet
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
 
-        // Flip bullet if Cyrus is facing left
-        if (transform.localScale.x < 0)
+        // Flip and set bullet direction
+        Bullet bulletScript = bullet.GetComponent<Bullet>();
+        if (bulletScript != null)
         {
-            Vector3 bulletScale = bullet.transform.localScale;
-            bulletScale.x *= -1;
-            bullet.transform.localScale = bulletScale;
+            if (transform.localScale.x < 0)
+            {
+                // Flip sprite
+                Vector3 scale = bullet.transform.localScale;
+                scale.x *= -1;
+                bullet.transform.localScale = scale;
+
+                // Set direction
+                bulletScript.SetDirection(Vector2.left);
+            }
+            else
+            {
+                bulletScript.SetDirection(Vector2.right);
+            }
         }
     }
 }
+
